@@ -14,7 +14,7 @@
 后续双击“image-super-resolution.sln”即可进入项目。
 
 ## 三、数据探索
-本实验的数据可以选择CV领域各类常见的数据集，实验将以CelebA数据集作为示例。CelebA是香港中文大学开放的人脸识别数据，包括了10177个名人的202599张图片，并有5个位置标记和40个属性标记，可以作为人脸检测、人脸属性识别、人脸位置定位等任务的数据集。数据集可在[百度云盘](https://pan.baidu.com/s/1eSNpdRG#list/path=%2F)中下载，详细信息可在[官方网站](http://mmlab.ie.cuhk.edu.hk/projects/CelebA.html)中查看。本实验使用该数据集中`img_align_celeba.zip`这一文件，选择了其中前10661张图片，每张图片根据人像双眼的位置调整为了219x178的尺寸。解压后的图片如图1所示。
+本实验的数据可以选择CV领域各类常见的数据集，实验将以CelebA数据集作为示例。CelebA是香港中文大学开放的人脸识别数据，包括了10177个名人的202599张图片，并有5个位置标记和40个属性标记，可以作为人脸检测、人脸属性识别、人脸位置定位等任务的数据集。数据集可在[Google Drive](https://drive.google.com/drive/folders/0B7EVK8r0v71pTUZsaXdaSnZBZzg)中下载，详细信息可在[官方网站](http://mmlab.ie.cuhk.edu.hk/projects/CelebA.html)中查看。本实验使用该数据集中`img_align_celeba.zip`这一文件，选择了其中前10661张图片，每张图片根据人像双眼的位置调整为了219x178的尺寸。解压后的图片如图1所示。
 
 ![图1 初始数据集](imgs/1.png)
 
